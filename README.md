@@ -13,7 +13,6 @@ data:
 
 Placement_Data_Full_Class.csv: raw data file
 
-requirements.txt: includes a list of python libraries used in the project.
 
 ## Methods Used
 Data cleaning
