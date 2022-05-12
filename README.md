@@ -24,6 +24,6 @@ Data exploration and visualisation
 Python\
 Numpy\
 Pandas\
-Matplot\lib
+Matplotlib\
 Seaborn\
 SciKit-Learn\
