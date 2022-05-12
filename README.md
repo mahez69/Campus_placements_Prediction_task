@@ -26,4 +26,4 @@ Numpy\
 Pandas\
 Matplotlib\
 Seaborn\
-SciKit-Learn\
+SciKit-Learn
